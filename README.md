@@ -1,2 +1,2 @@
-# examen_integrador
+# exam en_integrador
 examen integrador
